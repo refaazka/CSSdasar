@@ -1,0 +1,10 @@
+h1 {
+    font-size: 100px;
+    color: aliceblue;
+}
+p {
+    color: aquamarine;
+}
+body {
+    background: url(bg.avif) black no-repeat top center;
+}

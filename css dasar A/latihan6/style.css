@@ -1,0 +1,29 @@
+.hai:link {
+    color: orange;
+}
+
+.hai:hover {
+    color: green;
+    font-family: arial;
+    font-size: 20px;
+}
+
+.hai:active {
+    font-style: italic;
+}
+
+.hai:visited {
+    color: red;
+}
+
+li:nth-child(even) a {
+    color: green;
+}
+
+li:nth-child(even) a:hover {
+    color: red;
+}
+
+p:last-of-type {
+    color: red;
+}
